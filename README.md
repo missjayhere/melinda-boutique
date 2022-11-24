@@ -4,11 +4,11 @@ Hello! Time to get to some coding. This repo is there for you to play around wit
 # Getting started
 Make sure you have node and npm installed :) 
 
-- Fork this repo!
-
 - The clone the repo! 
 
 - Then run 'npm install' 
+
+- run 'npm start'
 
 # Exercise 
 

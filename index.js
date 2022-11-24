@@ -14,6 +14,10 @@ app.get('/berkshireHathaway', (req, res) => {
     res.sendFile(__dirname + '/views/berkshireHathaway.html')
 })
 
+app.get('/fieldset', (req, res) => {
+    res.sendFile(__dirname + '/views/fieldset.html')
+})
+
 app.get('/mypage', (req, res) => {
     res.sendFile(__dirname + '/views/mypage.html')
 })
