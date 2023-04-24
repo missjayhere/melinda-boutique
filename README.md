@@ -10,6 +10,8 @@ Make sure you have node and npm installed :)
 
 - run 'npm start'
 
+- navigate to http://localhost:8080/mypage
+
 # Exercise 
 
 -
